@@ -1,5 +1,7 @@
 # Deploying AnyType (any-sync) on Synology DSM
 
+🌍 English | [简体中文](https://github.com/youfou/deploy-any-sync-to-dsm/blob/main/README_CN.md)
+
 
 
 ## Background

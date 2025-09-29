@@ -1,5 +1,7 @@
 # 在群晖 DSM 上部署 AnyType (any-sync)
 
+🌍 [English](https://github.com/youfou/deploy-any-sync-to-dsm/blob/main/README.md) | 简体中文
+
 
 
 ## 背景
